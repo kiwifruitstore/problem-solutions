@@ -12,7 +12,7 @@ for i in range(inputlines):
 count = 0
 output = []
 for name in inputlist:
-    
+    print("thing")
 print(count)
 print(inputlist)
 
