@@ -9,7 +9,11 @@ for i in range(inputlines):
     listform = temp.split()
     inputlist.append(listform)
     
-
+count = 0
+output = []
+for name in inputlist:
+    
+print(count)
 print(inputlist)
 
-# input format : [name friendshipvalue XX/XX]
+# input format : [name, friendshipvalue, XX/XX]
